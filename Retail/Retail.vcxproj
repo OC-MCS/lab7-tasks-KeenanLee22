@@ -143,7 +143,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Retail.cpp" />
     <ClCompile Include="testRetail.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Retail.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Documents\Programming II Labs\ChloeIsANerd.csv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

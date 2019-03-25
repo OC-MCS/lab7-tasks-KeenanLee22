@@ -18,5 +18,18 @@
     <ClCompile Include="testRetail.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Retail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Retail.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Documents\Programming II Labs\ChloeIsANerd.csv">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
